@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="AppName">Telegram</string>
-  <string name="AppNameBeta">Telegram Beta</string>
-  <string name="LanguageName">English</string>
+  <string name="AppName">ഞമ്മളെ ടെലിഗ്രാം</string>
+  <string name="AppNameBeta">ഞമ്മളെ ടെലിഗ്രാം പാറ്റ</string>
+  <string name="LanguageName">മലയാളം</string>
   <string name="English">English</string>
-  <string name="LanguageNameInEnglish">English</string>
+  <string name="LanguageNameInEnglish">Malayalam</string>
   <string name="LanguageCode">en</string>
   <string name="ContinueOnThisLanguage">Continue in English</string>
   <!--signin view-->
@@ -93,9 +93,10 @@
   <string name="PaymentWarningText">Neither Telegram, nor %1$s will have access to your credit card information. Credit card details will be handled only by the payment system, %2$s.\n\nPayments will go directly to the developer of %1$s. Telegram cannot provide any guarantees, so proceed at your own risk. In case of problems, please contact the developer of %1$s or your bank.</string>
   <!--chats view-->
   <string name="NewConversationShortcut">New conversation</string>
-  <string name="Settings">Settings</string>
-  <string name="Contacts">Contacts</string>
-  <string name="NewGroup">New Group</string>
+  <string name="Settings">സെറ്റപ്പ്</string>
+  <string name="Contacts">ചെങ്ങായിമാർ</string>
+  <string name="NewGroup">കൂട്ടം കൂടൽ</string>
+  <string name="SavedMessages">എട്ത്ത് വെച്ചത്</string>
   <string name="Yesterday">yesterday</string>
   <string name="NoResult">No results</string>
   <string name="NoChats">No chats yet...</string>
@@ -110,7 +111,7 @@
   <string name="EnableProxyAlert2">You can change your proxy server later in the Settings (Data and Storage).</string>
   <string name="ConnectingToProxyDisableAlert">Are you sure you want to disable proxy server %1$s? You can reenable it in the Settings later (Data and Storage).</string>
   <string name="Updating">Updating...</string>
-  <string name="NewSecretChat">New Secret Chat</string>
+  <string name="NewSecretChat">പരദൂഷണം</string>
   <string name="AwaitingEncryption">Waiting for %s to get online...</string>
   <string name="EncryptionRejected">Secret chat cancelled</string>
   <string name="EncryptionProcessing">Exchanging encryption keys...</string>
@@ -189,7 +190,7 @@
   <string name="ActionMigrateFromGroupNotify">%1$s was upgraded to a supergroup</string>
   <string name="NoBlockedGroup">Banned users are removed from the group and can only come back if invited by an admin. Invite links don\'t work for them.</string>
   <string name="NoBlockedChannel">Banned users are removed from the channel and can only come back if invited by an admin. Invite links don\'t work for them.</string>
-  <string name="NewChannel">New Channel</string>
+  <string name="NewChannel">ചാനൽ</string>
   <string name="EnterChannelName">Channel name</string>
   <string name="AddMutual">Add contacts to your channel</string>
   <string name="ChannelUsernameHelp">People can share this link with others and find your channel using Telegram search.</string>
@@ -662,7 +663,7 @@
   <string name="LastSeen">last seen</string>
   <string name="LastSeenDate">last seen</string>
   <string name="LastSeenNow">last seen just now</string>
-  <string name="InviteFriends">Invite Friends</string>
+  <string name="InviteFriends">വിളിച് കൊൺഡ്രാ</string>
   <string name="GlobalSearch">GLOBAL SEARCH</string>
   <string name="Lately">last seen recently</string>
   <string name="WithinAWeek">last seen within a week</string>
@@ -1418,7 +1419,7 @@
   <string name="VoipNotificationSettings">Voice calls</string>
   <string name="VoipSettingsRingtone">Ringtone</string>
   <string name="VoipRingtoneInfo">You can customize the ringtone used when this contact calls you on Telegram.</string>
-  <string name="Calls">Calls</string>
+  <string name="Calls">വിളികൾ</string>
   <string name="WhoCanCallMe">Who can call me?</string>
   <string name="WhoCanCallMeInfo">You can restrict who can call you.</string>
   <string name="CustomCallInfo">These users will or will not be able to call you regardless of the settings above.</string>
